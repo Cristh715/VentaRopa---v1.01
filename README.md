@@ -1,10 +1,13 @@
 # VentaRopa-v1.01
-<h1>Versión 1.01 del software de venta de ropas.</h1>
-Curso: Procesos de Software
-Profesor: Wilder Alex Inga López
-Integrantes:
-- ATUNCAR YATACO, Cristhian
-- CALLUPE ARIAS, Jefferson
-- GUERRA CAMANA, Pablo Francisco
-- LÓPEZ SALINAS, Marco Antonio
-- TUPAC AGÜERO, Kevin
+<h2>Versión 1.01 del software de venta de ropas.</h2>
+&nbsp;&nbsp;<b>Curso:</b> Procesos de Software<br>
+&nbsp;&nbsp;<b>Profesor:</b> INGA LÓPEZ, Wilder Alex<br>
+<h3><b>Grupo 2</b></h3>
+Integrantes:<br>
+<ul>
+👨‍💻 ATUNCAR YATACO, Cristhian Paolo<br>
+👨‍💻 CALLUPE ARIAS, Jefferson Jesús<br>
+👨‍💻 GUERRA CAMANA, Pablo Francisco<br>
+👨‍💻 LÓPEZ SALINAS, Marco Antonio<br>
+👨‍💻 TUPAC AGÜERO, Kevin
+</ul>
